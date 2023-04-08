@@ -1,8 +1,10 @@
-## yunbinni github
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=yunbinni&fontSize=90)
 
-끊임없이 발전하고, 해결책을 찾으려 노력하는 개발 지망생입니다.
+😉 끊임없이 발전하고, 해결책을 찾으려 노력하는 개발 지망생입니다. 😎
 
 ---
+
+### 내 사이트
 
 📧 [yunbin9049@gmail.com](mailto:yunbin9049@gmail.com)
 
@@ -44,3 +46,5 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunbinni&show_icons=true&theme=transparent)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&text=Now%20Use%20Me!&fontSize=90)
