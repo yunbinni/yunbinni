@@ -4,6 +4,12 @@
 
 ---
 
+📧 [yunbin9049@gmail.com](mailto:yunbin9049@gmail.com)
+
+🌏 [yunbinni.tistory.com](https://yunbinni.tistory.com)
+
+---
+
 ### Tech Stack
 
 **Language**
