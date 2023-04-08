@@ -40,3 +40,7 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![KAKAOMAP](https://img.shields.io/badge/kakao_map-ffcd00?style=for-the-badge&logo=Kakao&logoColor=black)
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunbinni&show_icons=true&theme=radical)
